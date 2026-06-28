@@ -38,6 +38,6 @@ python3 flip.py input.jpg output.jpg
 
 |入力画像(input.jpg)|出力画像(output.jpg)|
 |---|---|
-|<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/6846e205-7ed0-4bc4-b016-4fa35c2594ca" />|<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/0cbad342-9217-43f0-a18c-eed304d3304f" />|
+|<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/4921e542-3740-4fa5-a524-ff8faafea585" />|<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/31809e0a-ec04-43b8-9725-943a072802da" />|
 
 以上
